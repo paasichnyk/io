@@ -1,1 +1,1 @@
-# paasichnyk.Github.io
+# paasichnyk.github.io
